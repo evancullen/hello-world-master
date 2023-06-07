@@ -26,7 +26,7 @@ SECRET_KEY = 'matxp6k!wbkmdlk)97)ew2qr%&9nr=n#v_-+v#yel4^r&czf7q'
 DEBUG = True
 
 # A list of strings representing the host/domain names that this Django site can serve.
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '18.117.94.110']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '18.117.94.110', 'ec2-18-117-94-110.us-east-2.compute.amazonaws.com', '3.22.117.178']
 
 
 # Application definition
